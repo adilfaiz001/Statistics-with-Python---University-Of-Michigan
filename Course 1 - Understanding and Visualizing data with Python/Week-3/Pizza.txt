@@ -1,0 +1,98 @@
+PIZZA FUN
+Place for fun and Pizza
+
+
+"People all around the places love to eat pizza but never get to understand satisfactory taste for it. We got a lot variations in pizza makings and their combinations.We got levels of toppings available with different layering of cheese and bread.
+You decide and we make, so we got different combinations for different kind of people." This is our main advertising goal with people all around places and we interact with our customers to understand their nature of eating and categories their prefer with different variables like time of the day and the number of party they are bringing with them. We are concerned with our sales with distribution of our own combinations and then we find how it can be optimize with other parameters. We decided to make some changes with few customers and find out different patterns in our collected data. There are not very correlated data but we do have found something around pizza combinations and we do provide customers some options to select from. It really increase sales and the distributions of different pizza combinations optimizes.
+
+There are variability of taste with different people and there is not one specific perfections in it. We design our menu as specified by people or we can say for the people, by the people. We select parameters which are specific to people and let people decide what they want. We see through this we provided a large number of satisfaction to the people for their taste.So from there we come up with this change that people gonna decide their combination with their own base pizza taste. We find pattern in eating of people during different day time like few people prefer onion over cheese one during lunch and this relation does not hold true during dinner. In dinner people tend to like capsicum with onion. On weekends, people come with large number of party and tend to order larger pizza. This data could be very helpful and could exponentially increase our small business to stable one.
+
+We collect data and analyze data of our competitors like PizzaHub and PizzaZone. They provide similar but not so effective solutions to this inference. They provide offers on weekends with other supplementary eatables with variations of prices which is helpful in bringing price into range and making them realize that they are in profit. They have small offers in week days and support it with some other variations in price. 
+
+We are in competition with them and referring to last month selling, we are about same profit as they are. I would like to request to implement some new changes in accordance with our data analysis and inference. This could highly benefit our small business.
+
+Sincerely,
+John Winston
+
+==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+
+
+Dear Chief Executive Officer of Java Pizza,
+Hello, introduce my name is Tommy, I am a consultant in the field of data analysis.
+Productivity increases by 35% in your pizza company (Java Pizza), which is based on studies of direct competition with those on the market. Java Pizza, has an average customer satisfaction of 4.1 (taking a scale of 1 to 5), and can respond to all clients on average (5.1) and respond to the standard deviation of 0.12, which has previously been simulated by analyzing data using Python .
+a) What we have done:At present he has the results of statistics and marketing studies on pizza around the site, obtaining significant results to increase his presence in the market, this is based on: satisfaction variable correlation; To do this, we come to the conclusion that your sales, your results and your customer satisfaction can be adjusted by linear regression.
+b) What can I offer:We will recommend in-depth studies, statistical databases, additional information from 550 customer surveys, 120 surveys for your employees and 15 for suppliers. provide reliable information up to 95% * reliability, to provide information about graphic results, sales, results and customer satisfaction.
+In addition, if you want, I can make software to streamline your sales, which is graphically designed so that management and director staff have become historic days that have more visits, time, types of pizza that are most important for material purchases.It is necessary that you have to do with you to show him.
+• If you contemplate investing $ 12,000 USD: I can increase your profit to an average of 15%, with a standard deviation 3)
+• If you reflect on an investment of $ 75,000 USD: I can increase profit by an average of 35%, with standard deviation 1, and ship computer software so you can check it, graphically (in frequency histograms) the type of pizza that has more acceptance big by the public, days of sales.
+Also, for an additional $ 200 USD, I can offer the software that we have throughout the month, and can also get with this investment.
+Sincerely,Tommy Pratama
+
+
+==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+
+TO: CEO of PetiteCrust
+FROM: Deyan Dyankov, Study Design Consultant
+DATE: 17 January 2019
+SUBJECT: design for study comparing PetiteCrust and Bigzza
+
+Objective
+The objective of the proposed study below is to make a comparison between PetiteCrust and Bigzza, highlighting strengths and weaknesses of the two companies and their product offerings.To limit the scope of the study, we will focus on the quality of the two companies' products.
+
+To carry out the study, PetiteCrust can establish a stand in a crowded location and offer free pizzas to people who pass by.
+Pizzas will come from two pools (PetiteCrust and competitor Bigzza).
+To keep the comparison fair, the stand must be located at a close distance to Bigzza so that their pizzas can be warm too.
+Each person will be given a slice from a random pizza - this could be a PetiteCrust or Bigzza pizza, low or high-end price range.
+The person will then be asked to rate the pizza using the research questions.
+
+Proposed research questions
+given pizzas from the same price ranges from both companies, which one do customers like better?
+how much will customers pay for different pizzas from both companies
+what is a particular pizza's feature that customers liked the most
+To answer the research questions, people will fill in a survey with the following questions and answers (proposed variables to be recorded):
+On a scale from 1 to 10, how do you like this pizza? [discrete variable with values 1 to 10]
+If this slice of pizza was not free, how much would you be willing to pay for it? [continuous variable with values larger than 0]
+What do you like most about this pizza? [discrete variable with values word or a phrase]
+Suppose we have given out 1,000 slices of pizza (500 from each company and from different pizzas respectively) to random people and they have answered the survey above.
+We can then perform the following graphical and numerical summaries:
+histogram of pizza likes (1 to 10) for both pizzas from PetiteCrust and Bigzza
+scatter plot of pizza likes vs. price willing to pay
+scatter plot of pizza likes vs. actual pizza price
+barplot of uniqe words or phrases that people like most about each pizza type from each company (e.g. "crust", "toppping", etc.)
+The proposed numerical summaries can be used to gauge the fair values of the different products of the different companies and will prove useful in pricing decisions.
+Moreover, particular types of toppings or crusts may be favoured by people to different extent.
+This will subsequently drive product development in the future.
+Should you agree to this design, I will be very happy to assist you with the actual implementation of the study and analysing the results.
+
+kind regards,
+deyan
+
+========================================================================================================================================================
+
+
+To:          La Pinos Pizza 
+From:     Marketing Experts.
+Subject:  A Brief plan for La Pinos Pizza's advertisements.
+
+1. One of the most important measures of quality among customers is customer ratings. For this, we need to collect the ratings of a pizza from the current customers via either a feedback form or an app. Later on, we can use these ratings in our advertisements and justify the quality.
+Requirement:  Collection of data in the form of ratings on a scale of either 5 or 10.
+
+2. Another way is to prove that we have a larger pizza. It is always better to showcase a larger size using percentage. 
+Example: Now 25% larger pizza. Larger Pizzas. Similar Prize Ranges! 
+
+3. Eat by the slice: There will be more customers willing to pay for a variety of pizzas rather than eating 6 slices of just a single pizza type. What we can do is offer more than 4-5 types of pizzas and charge them per slice.
+
+4. Attractive Coupons: Instead of simply advertising via hoardings we can go into local magazines and distribute coupons through them. People are always attracted by coupons with discounts and hence we will be able to attract new customers. Once we get the traffic via these coupons we can show how great pizza-makers we are and rest be assured that the customer will return in future.
+Requirements: Diistribute discount coupons via magazine advertisements.
+
+5. Online Reputation: Since we are local business owners we need to have a strong presence on rating websites like google business or some restaurant rating Website/App.
+Requirements: Creating accounts on all major rating services.
+
+6. Combo/Pack Offers: Another major incentive to customers can be proposing pizza plans. 
+Example: We can offer combo plans wherein we serve a pizza free if 3 pizzas are bought. This plan will attract families of 4 or 5. 
+Similarly, we can have many such plans.
+
+7. Showcase success: Lastly we would want to show how great the sales we made. Linear graphs are the easiest ones that general public can understand. 
+Example:  We can share our sales growth in terms of lineraly increasing graphs thereby implying: "We are growing because we serve better"
